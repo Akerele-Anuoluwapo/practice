@@ -1,0 +1,27 @@
+
+    /* box-sizing: border-box; */
+    /* margin: 0; */
+    
+
+div{
+    display: inline-block;
+    width: 300px;
+    padding: 20px;
+}
+.parent-container{
+    width: 90%;
+    text-align: center;
+    margin: 150px auto;
+    /* padding: 24px; */
+}
+    
+
+.left-div{
+    background: tomato;
+}
+.middle{
+    background: lightskyblue;
+}
+.right-div{
+    background: greenyellow;
+}
